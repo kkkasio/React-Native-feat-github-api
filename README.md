@@ -4,9 +4,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Demonstração
 
-```
-![Demonstração](https://i.imgur.com/eXNMGiE.gif)
 
-```
+![](demo.gif)
+
 
 ### Este app é so uma poc de como podemos consumir uma api externa com react native :love:
